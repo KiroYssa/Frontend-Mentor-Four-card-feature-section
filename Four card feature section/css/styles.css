@@ -23,8 +23,8 @@ h3 {
 }
 
 div {
-  width: 270px;
-  height: 200px;
+  width: 16.875rem;
+  height: 12.5rem;
   padding: 10px 30px;
   border-top-style: solid;
   border-radius: 5px;
@@ -57,26 +57,42 @@ img {
 
 .Supervisor {
   border-top-color: #45d3d3;
-  left: 240px;
-  top:350px;
+  left: 15rem;
+  top:21.875rem;
+}
+
+.Supervisor:hover {
+  background-color: #f0f8ff;
 }
 
 .TeamBuilder {
   border-top-color: #ea5353;
-  left: 600px;
-  top: 230px;
+  left: 37.5rem;
+  top: 14.375rem;
+}
+
+.TeamBuilder:hover {
+  background-color: #f0f8ff;
 }
 
 .Calculator {
   border-top-color: #549ef2;
-  right: 240px;
-  top:350px;
+  right: 15rem;
+  top:21.875rem;
+}
+
+.Calculator:hover {
+  background-color: #f0f8ff;
 }
 
 .Karma {
   border-top-color: #fcaf4a;
-  left: 600px;
-  top: 480px;
+  left: 37.5rem;
+  top: 30rem;
+}
+
+.Karma:hover {
+  background-color: #f0f8ff;
 }
 
 .description {
