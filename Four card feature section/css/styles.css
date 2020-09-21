@@ -1,0 +1,84 @@
+/*------------------Tag Selectors------------------*/
+body {
+  background-color: #fafafa;
+  text-align: center;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+  color: silver;
+  font-size: 0.9rem;
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+
+h1 {
+  margin: 0;
+}
+
+h3 {
+  font-weight: 400;
+  margin: 16px auto 5px;
+}
+
+div {
+  width: 270px;
+  height: 200px;
+  padding: 10px 30px;
+  border-top-style: solid;
+  border-radius: 5px;
+  box-shadow: 0px 12px 15px 1px #d3d3d3;
+  background-color: #ffffff;
+  position: absolute;
+  text-align: left;
+}
+
+img {
+  float: right;
+}
+
+/*------------------Class Selectors------------------*/
+.light-h1 {
+  margin-top: 40px;
+
+  font-weight: 200;
+}
+
+.bold-h1 {
+  font-weight: 600;
+}
+
+.main-description {
+  width: 32%;
+  margin: 15px auto;
+
+}
+
+.Supervisor {
+  border-top-color: #45d3d3;
+  left: 240px;
+  top:350px;
+}
+
+.TeamBuilder {
+  border-top-color: #ea5353;
+  left: 600px;
+  top: 230px;
+}
+
+.Calculator {
+  border-top-color: #549ef2;
+  right: 240px;
+  top:350px;
+}
+
+.Karma {
+  border-top-color: #fcaf4a;
+  left: 600px;
+  top: 480px;
+}
+
+.description {
+  font-size: 0.8rem;
+}
